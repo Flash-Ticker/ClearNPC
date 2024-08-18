@@ -10,7 +10,7 @@
 
 **Author:** [@RustFlash](https://github.com/Flash-Ticker)
 
-[![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/ClearNPC/blob/main/ClearNPC_Thumb.jpg)](https://youtu.be/xJzMHkWhYpw?si=Xg3FFy5DJ8DGYJIP)
+[![RustFlash - Your Favourite Trio Server](https://github.com/Flash-Ticker/ClearNPC/blob/main/ClearNPC_Thumb.png)](https://youtu.be/xJzMHkWhYpw?si=Xg3FFy5DJ8DGYJIP)
 
 
 ## Description:
